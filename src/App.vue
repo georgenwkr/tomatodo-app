@@ -6,8 +6,8 @@
       time management system that uses a timer to break work into intervals, 25
       minutes in length, separated by short breaks.
       <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique" target="blank"
-        >Read More</a
-      >. Make a todo list and start the timer!
+        >read more</a
+      >. make a todo list and start the timer!
     </p>
   </header>
   <Timer />
@@ -39,7 +39,7 @@ export default {
 }
 
 * {
-  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   scroll-behavior: smooth;
 }
 
@@ -51,7 +51,7 @@ body {
 
 h1 {
   font-size: 36px;
-  color: rgb(41, 41, 41);
+  color: #121212;
   font-weight: 800;
   text-align: center;
 }
@@ -62,5 +62,6 @@ p {
   text-align: center;
   width: min(90%, 650px);
   margin: 20px auto;
+  line-height: 1.4;
 }
 </style>

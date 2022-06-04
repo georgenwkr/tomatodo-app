@@ -60,12 +60,12 @@ export default {
 
 <style>
 .container {
-  border: 1px solid rgb(41, 41, 41);
+  border: 1px solid #121212;
   border-radius: 16px;
   max-width: 300px;
   margin: 0 auto 40px;
   padding: 5px;
-  background: rgb(41, 41, 41);
+  background: #121212;
 }
 
 .timer {

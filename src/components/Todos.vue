@@ -52,7 +52,7 @@ export default {
 <style>
 form {
   text-align: center;
-  border: 2px solid rgb(41, 41, 41);
+  border: 2px solid #121212;
   width: 340px;
   height: auto;
   margin: 0 auto;
@@ -67,7 +67,7 @@ form input {
   height: 40px;
   outline: none;
   padding: 0 10px;
-  color: rgb(41, 41, 41);
+  color: #121212;
   font-weight: 500;
 }
 
@@ -76,7 +76,7 @@ form button {
   height: 42px;
   font-weight: 600;
   color: white;
-  background: rgb(41, 41, 41);
+  background: #121212;
   border: none;
   cursor: pointer;
 }

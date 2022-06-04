@@ -25,8 +25,8 @@ export default {
   height: 50px;
   margin: 10px auto;
   padding: 0 10px;
-  border: 1px solid rgb(41, 41, 41);
-  background: rgb(41, 41, 41);
+  border: 1px solid #121212;
+  background: #121212;
   color: white;
   font-size: 14px;
 }
