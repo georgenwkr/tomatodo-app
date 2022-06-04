@@ -53,7 +53,7 @@ export default {
 form {
   text-align: center;
   border: 2px solid rgb(41, 41, 41);
-  width: 350px;
+  width: 340px;
   height: auto;
   margin: 0 auto;
   display: flex;
